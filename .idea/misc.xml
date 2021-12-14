@@ -3,9 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/PostitRoom/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/PostitRoom/app/src/main/res/drawable/ic_dark_mode.xml" value="0.1" />
+        <entry key="..\:/PostitRoom/app/src/main/res/drawable/ic_list.xml" value="0.1" />
         <entry key="..\:/PostitRoom/app/src/main/res/drawable/note_background.xml" value="0.25277777777777777" />
         <entry key="..\:/PostitRoom/app/src/main/res/drawable/note_color.xml" value="0.25277777777777777" />
         <entry key="..\:/PostitRoom/app/src/main/res/drawable/search_view_background.xml" value="0.25277777777777777" />
+        <entry key="..\:/PostitRoom/app/src/main/res/layout/activity_main.xml" value="0.2614942528735632" />
+        <entry key="..\:/PostitRoom/app/src/main/res/layout/fragment_note_detail.xml" value="0.32222222222222224" />
+        <entry key="..\:/PostitRoom/app/src/main/res/layout/fragment_note_list.xml" value="0.27245508982035926" />
+        <entry key="..\:/PostitRoom/app/src/main/res/layout/layout_note_item.xml" value="0.27245508982035926" />
       </map>
     </option>
   </component>
